@@ -1,0 +1,23 @@
+Brouillon de scénario
+Le gouverneur du système est très libéraliste et laxiste la planète est très minière mais les mines sont gérés par des propriétaires riches.
+La concurrence des différents propriétaire était au début sûrement économique mais petit à petit des actes hostiles au été enregistré Alain du simple sabotage petit à petit les propriétaires on commençait à un engager des mercenaires pour se faire des petites attaques et l'escalade de la violence amené les propriétaires à recruter de plus en plus de mercenaire jusqu'à avoir littéralement des petites armées
+Au final tous les propriétaires on commençait à se faire la guerre entre mets le gouverneur n'agissait pas.
+Un tournant a été franchi lorsque l'un des bélligérant déclara une guerre de grande envergure contre l'un de ses voisins changeant alors des petites guérillas habituelles.
+Après que le perdant fut annexé, le gouverneur considéra que le vainqeur fut une menace et voulu lui déclarer une guerre ouverte a son tour.
+La guerre fut violente et malgrés la perte de nombreux territoires, le gouverneur subit de nombreuses pertes. 
+Suite à ça, les autres factions se rendèrent compte qu'ils etaient capable de faire face au gouverneur et firent céssésion a leurs tour.
+Afin de retrouver la richesse l'autorité sur le cessionnaire le gouverneur a entrepris des actes diplomatique puis économique et enfin militaire afin de reprendre l'autorité sur lui
+Petit à petit d'autres propriétaires ont fait sécession ils ont commencé à faire des alliances ou des guerres entre eux ce qui a mené au fait que le gouverneur a totalement perdu l'autorité sur le système
+
+Pour récupérer son autorité, le gouverneur a demandé à l'empire de l'aide. Mais celui ci ne va pas intervenir car le problème n'est pas majeur étant donné que la dîme Imperial est toujours payé. 
+Les Tau lui a proposer d'intervenir pour reprendre le contrôle de la planète.
+
+Scénario:
+Le système Iondarr est un système possédant de très vastes ressources minière sur les différentes planètes et lunes qui le compose. Il est dirigé a tour de rôle par différentes familles parmis les plus influentes. Au fil des générations, les gouverneurs ont peu à peu laisser les affaires économiques aux mains des grands propriétaires miniers et on ainsi laisser une économie très libéraliste se develloper accentué par le laxisme de leurs dirigeants. Les propriétaires ont pu alors fonder de véritables petits empires basés sur leurs propriétés minières, et se dispute régulièrement des parts du marchés. Mais petit à petit, des actes hostiles furent enregistré, allant à la destructions de mines ou de raffineries à l'engagement de petits groupe de mercenaires dans des conflits armés sporadiques.
+Un jour, l'un des propriétaire entreprit des sabotages et des attaques de convoi a l'un de ses voisin. Mais au lieu de riposter par des actes similaires, celui entreprit une veritable invasion, dévoilant ainsi la très grande armés de mercenaires qu'il avait engagés. L'hostilité dégénéra en véritable guerre civile qu'il eu tôt fait de l'emporter.
+Etant de fait désigné comme menace sérieuse à l'intégrité et le fonctionnement économique de la planète, le gouverneur entreprit de mobiliser les troupes de défenses planètaires afin de neutraliser ce conssortium. Mais celui-ci fit immédiatement césséssion et entra dans une lutte accharné causant de très nombreuses pertes aux forces gouvernementales malgrès la perte de térritoires. Cette résistance, montrant aux autres puissances, qu'ils était a présent capable de rivaliser avec le gouverneur, et eurent tôt fait de déclarer leur césséssion a leur tour.
+Suite à cela, le conflit s'exporta rapidement aux planètes et lunes environnante et le gouverneur perdit le contrôle total de son systeme.
+
+Feu aux poudre:
+Jace Taran est un riche propriétaire d'un grand nombre de mine a travers les grandes plaines du sud. Il a réussit a tirer profit du laxisme du gouverneur Connorth Arleth mais aussi de l'escalade de la violence d'Ibillia. Sa grande richesse lui a permit de former des véritables compagnies de mercenaires cultiste de khorne. C'est le jour où le propriétaire Cullin décida de saboter bon nombre d'usine au niveau de leurs frontière commune que Taran décida de montrer sa force.
+Alors que Cullin s'attendais a des représailles habituelles (comme des sabotages ou des attaques ciblés), Taran décida de lancer toutes ses troupes mercenaires dans une offensive digne d'une campagne de l'Astra Militarum. La résistance des troupes de Cullin ne firent pas le poids comparer au nombre et à la sauvagerie des culturistes de Khorne, et son térritoires ne tarda pas a se faire purement annexé tandis que Cullin et les membre de son conseil furent purement assassiné. 
