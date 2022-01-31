@@ -5,6 +5,16 @@
 1) DÃ©fendre la ville de Kessel
 
 # Deploiment
-## Deploiement Death Korps
-Les 38eme et 115eme d'infanterie vont se dÃ©ployer dans la ville de Hessich-Litchenau avec le 12eme blindés , à 17km au sud est de Kessel. Le principal de l'assaut va se dérouler le long de la route reliant les deux ville.
-Les colonels des 38e et de la 12eme ont recu l'ordre d'établir un plan pour avancer le long de cette route, le colonel ... de la 12eme décida d'envoyer ses deux compagnies de cavalerie faire de la reconnaissance le long de la route vers kessel
+## Deploiement Rénégats
+- La 1ere Cohorte est totalement déployé sur une ligne de part et d'autre de Lohfelden au sud-est de Kessel afin de dans le but de progresser à travers la foret et de ralentir les troupes de la Death Corps
+- La 2eme cohorte est partiellement déployé le long de la route B7 vers Hessisch-Litchenau qui constitue la seconde voie potentielle d'invasion. Dans le but de reconnaitre les troupes ennemis
+  - Bataillon A de milice
+  - Groupe A du bataillon d'infanterie
+  - Bataillon de reconnaissance séparé en deux compagnies
+- Le Groupe blindé est lui aussi partiellement déployé le long de l'A7 qui constitue la voie d'invasion la plus rapide vers Kessel
+  - Bataillon de Reco
+  - Bataillon d'infanterie mécanisé
+
+## Déploiement Death Korps
+- 38eme d'Infanterie : Totalement déployé. Le bataillon A va avancer vers le Nord-ouest afin d'escorter le bataillon d'artillerie vers sa position de tir, le bataillon B accompagne les force du 12eme blindé de siège le long de la route B7
+ 
