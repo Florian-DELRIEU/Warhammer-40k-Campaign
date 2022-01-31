@@ -9,5 +9,20 @@
 - DK-SiegeTankRegiment-1
 
 # Liste des armées Hérétiques - 200 000 pts
+### 1ere Cohorte : `+ 37 000 pts`
+  - **Leader :** 
+  - **HE-RenegateInfantryRegiment-1**
+### 2eme Cohorte : `+ 37 000 pts`
+  - **Leader :** 
+  - **HE-RenegateInfantryRegiment-1**
+### 3eme Cohorte : `+ 37 000 pts`
+  - **Leader :** 
+  - **HE-RenegateInfantryRegiment-1**
+### 4eme Cohorte : `+ 37 000 pts`
+  - **Leader :** 
+  - **HE-RenegateInfantryRegiment-1**
+### Groupe blindé : `+ 46 000 pts`
+  - **Leader :** 
+  - **HE-RenegateArmoredRegiment-1**
 
 ## Map
