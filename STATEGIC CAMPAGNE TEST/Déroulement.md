@@ -45,3 +45,4 @@ A ce moment là 4 peleton, 1 groupe AT, 2 groupe MG, 1 groupe de mortier furent 
 Pendant ce temps la reconnaissance rénégats avait repérer le 1er bataillon du 12e Blindés ainsi que le 2 bataillon du 38e d'infanterie qui faisait route vers le nord. Les bataillon d'infanterie au nord furent rapidement informés une embuscade fut monté dans les bois pour intercepté les deux bataillons.
 On indiqua également quelques échanges de tir entre les groupes de reconnaissance de la 1ere cohorte de de la 12eme blindés dans les bois.
 Tandis que le 2eme groupe du 38e arriva sur les hauteurs de la colline Kleiner Belgerkopf pour en faire un avant poste, le groupe chargé d'escorter l'artillerie se retrouva très fortement ralenti par les bois.
+_T3_Rencontres.png_
