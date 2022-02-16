@@ -46,3 +46,10 @@ Pendant ce temps la reconnaissance rénégats avait repérer le 1er bataillon du
 On indiqua également quelques échanges de tir entre les groupes de reconnaissance de la 1ere cohorte de de la 12eme blindés dans les bois.
 Tandis que le 2eme groupe du 38e arriva sur les hauteurs de la colline Kleiner Belgerkopf pour en faire un avant poste, le groupe chargé d'escorter l'artillerie se retrouva très fortement ralenti par les bois.
 _T3_Rencontres.png_
+
+## Affrontement de Wattenbach
+Le commandant loyaliste ne pouvait pas se permettre de rester bloqué dans cette ville. Il organisa un colonne avec 7 peleton de la 4eme Compagnie d'infanterie, d'un escadron de 3 Leman russ, 1 Punisher et 1 Executionner. En même temps, les grenadiers de la 3eme passent avant pour repérer les ennemis embusqué. 
+
+La stratégie des rénégats fut de placé 2 compagnies en embuscade, l'une au niveau de la densification de la fôret au nord de la route et 1 autre dans une dépression du relief au sud. 
+
+En même temps, les compagnies de cavalerie se dispersent sur une large zone afin de faire une mission de reconnaissance tout en suivant le mouvement de la colonne. Mais elle fut gêner par les tirs sproradiques du groupe de reconnaissance ennemies. 
