@@ -48,8 +48,15 @@ Tandis que le 2eme groupe du 38e arriva sur les hauteurs de la colline Kleiner B
 _T3_Rencontres.png_
 
 ## Affrontement de Wattenbach
+### Phase 1
 Le commandant loyaliste ne pouvait pas se permettre de rester bloqué dans cette ville. Il organisa un colonne avec 7 peleton de la 4eme Compagnie d'infanterie, d'un escadron de 3 Leman russ, 1 Punisher et 1 Executionner. En même temps, les grenadiers de la 3eme passent avant pour repérer les ennemis embusqué. 
 
 La stratégie des rénégats fut de placé 2 compagnies en embuscade, l'une au niveau de la densification de la fôret au nord de la route et 1 autre dans une dépression du relief au sud. 
 
 En même temps, les compagnies de cavalerie se dispersent sur une large zone afin de faire une mission de reconnaissance tout en suivant le mouvement de la colonne. Mais elle fut gêner par les tirs sproradiques du groupe de reconnaissance ennemies. 
+### Phase 2
+La deuxième compagnie mécanisé se fait rapidement repérer dans la dépression par la cavalerie alors que la colonne n'est qu'a une 100aine de mètre du point d'embuscade.
+Immédiatement après s'être fait repérer, 5 missile Hunter-Killer furent lancé par la 2eme Compagnie mécanisé renégate contre les 3 Leman russ de tête. Mais ceux-ci n'eurent aucun effet et la plupart se perdirent dans la forêt ou vinrent s'écraser sur le blindage épais des leman russ.
+Aussitôt, les 3 peleton les plus proches sur mirent à couvert dans les bois tandis que les leman russ ouvrirent le feu sur les positions ennemis. Cependant, le couvert offert pas les bois et le relief ne permit pas de faire des dégâts. Mais les vétérans de la 2eme compagnies savaient qu'ils ne devrait pas rester ici car la puissance de feu loyaliste les écraserai tous. Il décidèrent alors de se replier derrière le relief d'une colline derrière eux pour obliger les loyalistes à s'approcher. 
+2 peletons allèrent dans les bois a leurs rencontres tandis que le reste de la colonne continua leur routes tout en essayant de trouver des meilleurs solutions de tir mais en restant sur leurs gardes.
+La 1ere compagnie rénégats profita du fait que leurs cachettes en fut pas découverte pour rester caché et attendirent une meilleur opportunité. Celle ci se présenta peu après, et les vétérans lacèrent 6 Hunter Killers contre les leman russ. L'un deux fut pulvérisé dans une énorme explosion, un autre fut endommagé sur l'une des chenille et fut immobilisé tandis que le troisième ne reç que des dommages légers. Cette compagnie se trouva dans un partie dense de la forêt et ce ne fut donc pas facile de faire des tir de riposte. Immédiatement la colonne provint le reste du bataillon qu'une embuscade avait eu lieu. Au même moment, les 6 griffons des deux compagnies entamèrent une pilonnage de la colonne.s
