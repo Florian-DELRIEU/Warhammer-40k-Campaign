@@ -68,8 +68,17 @@ Au sud, le leman russ encore valide et même celui immobilisé put fournir un ap
 L'embuscade ne fut pas une réussite totale pour le bataillon mécanisé mais l'attaque n'allait pas s'arrêter ici. Mais le temps pressait pour les loyalistes qui devait se diriger vers le nord le plus rapidement possible.
 
 # Tour 4
+## Embuscade de route B7
 Le bataillon B du 38e ainsi que le 1er bataillon du 12e blindés furent pris en embuscade sur la route B7 par 1 Bataillon de milicien et un autre d'infanterie renégates.
 
 Aussitôt la totalité des armes lourdes délivrèrent un tir nourris contre la colonne principalement contre les blindés ce qui causa des dommages légers. Immédiatement deux compagnies de milice se jetèrent sur le flanc gauche de la colonne avec les mutants en première ligne.
 Les premières minutes furent désorganisé mais les loyaliste purent rapidement se mettre en ordre de bataille juste a temps pour contenir la vague de mutants. Les compagnies 5,6 et 8e se mirent en rang pour couvrir le flanc tandis que la 7eme s'occupa de couvrir le replie des artillerie avant qu'elle ne soit attaqués. Les tirs firent quelques dégâts aux artilleries mais elle purent quand même rapidement se mettre à l'abris
-Les centaines de arrivèrent au corps a corps et firent de nombreuse victimes à la 5e et 6e compagnies mais elle réussirent quand même a les contenir. 
+Les centaines de mutants arrivèrent au corps a corps et firent de nombreuse victimes à la 5e et 6e compagnies mais elle réussirent quand même a les contenir. La 8e s'en sorti mieux car les leman russ purent les soutenir efficacement si bien que de nombreux mutants furent pulvériser avant d'avoir causé de nombreux dégâts. 
+
+## Affrontement des unités de reconnaissance 
+Les deux compagnies de reconnaissance ont réussit a repousser les reconnaissance ennemie maigres quelques pertes
+Ayant eu vent de la présence ennemis proche, le commandant du 38e ordonna a son premier bataillon d'organiser une ligne défensive provisoire en prenant position sur la colline Begelkopf.
+
+## Wattenbach
+Pendant ce temps a Wattenbach, le commandant reçu l'ordre de faire progresser ses troupes vers le nord sans se soucier des troupes ennemies a l'est. Il chargea alors la 6e compagnie d'infanterie et la 7e Blindés de remonter vers le nord tandis que la 5e devrait tenir la ville avec des éléments de la 8e blindés le but étant de prendre position dans la ville de Wellerode. Mais le mouvement fut repérer et le bataillon B de la 1ere cohorte fut prévenu et immédiatement elle tenta d'investir la ville pendant que le bataillon de 3e bataillon de milicien se chargea de couvrir les flancs 
+Le commandant de bataillon mécanisé en profita alors pour déployer toutes ses compagnies en prévision d'un assaut sur Wattenbach le plus vite possible. La première étape étant d'envoyer leurs 2e compagnies prendre pied dans le sud de la ville pendant que la 4e ferait des tirs de soutiens
