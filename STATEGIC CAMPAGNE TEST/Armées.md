@@ -6,7 +6,9 @@
   - **Leader :** 
   - **DK-LineInfantryRegiment-1**
 ### 12eme Régiment blindés de siège
-- DK-SiegeTankRegiment-1
+  - DK-SiegeTankRegiment-1
+  + 1ere Compagnie blindés de siège / 2eme Bataillon : 1 Détruit et 1 immobilisé.
+
 
 # Liste des armées Hérétiques - 200 000 pts
 ### 1ere Cohorte : `+ 37 000 pts`
@@ -24,5 +26,6 @@
 ### Groupe blindé : `+ 46 000 pts`
   - **Leader :** 
   - **HE-RenegateArmoredRegiment-1**
+  + Comp Mechanisé 1: tout les griffons détruits
 
 ## Map
